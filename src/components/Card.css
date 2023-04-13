@@ -1,0 +1,51 @@
+button {
+    background-color: rgb(0, 0, 0);
+    color: gold;
+    font-size: 16px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    
+  }
+input{
+  border-radius: 50px;
+  border-color: silver;
+  background-color: #F0FFFF;
+  width: 500px;
+  height: 30px;
+  
+}
+
+  #card{
+    width: 400px;
+    height: 700px;
+    border-color: gold;
+    border-style: solid;
+    border-width: 2px;
+    background-color: #8A2BE2;
+    border-radius: 50px;
+    
+    width: 24%;
+    float:left;
+    
+  }
+  #picture{
+    
+    border-radius: 50px;
+    width: 80%;
+  }
+
+  h2{
+    text-align: center;
+    border-color: gold;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 50px;
+    background-color: gold;
+  }
+
+  .App{
+    background-color: #FFEBCD;
+  }
+ 
